@@ -1,0 +1,116 @@
+﻿School,Conference,Division,ConfWins,ConfLoss,OverallWins,OverallLoss,HomeWins,HomeLoss,AwayWins,AwayLoss
+Wake Forest,ACC,ACC Atlantic Division,6,2,11,3,4,3,7,1
+Boston College,ACC,ACC Atlantic Division,5,3,10,3,8,1,2,3
+Maryland,ACC,ACC Atlantic Division,5,3,9,4,7,1,2,3
+Clemson,ACC,ACC Atlantic Division,5,3,8,5,5,2,3,3
+Florida State,ACC,ACC Atlantic Division,3,5,7,6,4,4,3,2
+NC State,ACC,ACC Atlantic Division,2,6,3,9,3,4,0,5
+Georgia Tech,ACC,ACC Coastal Division,7,1,9,5,6,3,3,2
+Virginia Tech,ACC,ACC Coastal Division,6,2,10,3,7,2,3,1
+Virginia,ACC,ACC Coastal Division,4,4,5,7,4,2,1,5
+Miami FL,ACC,ACC Coastal Division,3,5,7,6,5,2,2,4
+UNC,ACC,ACC Coastal Division,2,6,3,9,2,5,1,4
+Duke,ACC,ACC Coastal Division,0,8,0,12,0,7,0,5
+Nebraska,Big 12,Big 12 Northern Division,6,2,9,5,6,2,3,3
+Missouri,Big 12,Big 12 Northern Division,4,4,8,5,6,2,2,3
+Kansas State,Big 12,Big 12 Northern Division,4,4,7,6,6,3,1,3
+Kansas,Big 12,Big 12 Northern Division,3,5,6,6,5,2,1,4
+Colorado,Big 12,Big 12 Northern Division,2,6,2,10,2,4,0,6
+Iowa State,Big 12,Big 12 Northern Division,1,7,4,8,4,3,0,5
+Oklahoma,Big 12,Big 12 Southern Division,7,1,11,3,7,1,4,2
+Texas,Big 12,Big 12 Southern Division,6,2,10,3,7,2,3,1
+Texas A&M,Big 12,Big 12 Southern Division,5,3,9,4,5,4,4,1
+Texas Tech,Big 12,Big 12 Southern Division,4,4,8,5,4,2,4,3
+Oklahoma St,Big 12,Big 12 Southern Division,3,5,7,6,5,2,2,4
+Baylor,Big 12,Big 12 Southern Division,3,5,4,8,3,4,1,4
+Louisville,Big East,Big East Conference football season,6,1,12,1,6,1,6,1
+West Virginia,Big East,Big East Conference football season,5,2,11,2,6,1,5,1
+Rutgers,Big East,Big East Conference football season,5,2,11,2,6,1,5,2
+South Florida,Big East,Big East Conference football season,4,3,9,4,5,1,4,3
+Cincinnati,Big East,Big East Conference football season,4,3,8,5,6,1,2,4
+Pittsburgh,Big East,Big East Conference football season,2,5,6,6,3,4,3,2
+Connecticut,Big East,Big East Conference football season,1,6,4,8,3,4,1,4
+Syracuse,Big East,Big East Conference football season,1,6,4,8,3,3,1,5
+Ohio,Mid-American East,Mid-American East Division,7,1,9,5,4,2,5,3
+Kent State,Mid-American East,Mid-American East Division,5,3,6,6,3,2,3,4
+Akron,Mid-American East,Mid-American East Division,3,5,5,7,4,1,1,6
+Bowling Green,Mid-American East,Mid-American East Division,3,5,4,8,2,2,2,6
+Miami OH,Mid-American East,Mid-American East Division,2,6,2,10,0,5,2,5
+Buffalo,Mid-American East,Mid-American East Division,1,7,2,10,2,3,0,7
+Central MI,Mid-American West,Mid-American West Division,7,1,10,4,5,1,5,3
+Western MI,Mid-American West,Mid-American West Division,6,2,8,5,5,1,3,4
+Northern IL,Mid-American West,Mid-American West Division,5,3,7,6,4,3,3,3
+Ball State,Mid-American West,Mid-American West Division,5,3,5,7,2,4,3,3
+Toledo,Mid-American West,Mid-American West Division,3,5,5,7,4,2,1,5
+Eastern MI,Mid-American West,Mid-American West Division,1,7,1,11,1,4,0,7
+USC,Pacific-10 Conference,Pacific-10 Conference football season,7,2,11,2,6,1,5,2
+California,Pacific-10 Conference,Pacific-10 Conference football season,7,2,10,3,7,1,3,3
+Oregon State,Pacific-10 Conference,Pacific-10 Conference football season,6,3,10,4,5,2,5,2
+UCLA,Pacific-10 Conference,Pacific-10 Conference football season,5,4,7,6,6,2,1,4
+Oregon,Pacific-10 Conference,Pacific-10 Conference football season,4,5,7,6,5,2,2,4
+Arizona State,Pacific-10 Conference,Pacific-10 Conference football season,4,5,7,6,4,2,3,4
+Arizona,Pacific-10 Conference,Pacific-10 Conference football season,4,5,6,6,3,4,3,2
+Washington St,Pacific-10 Conference,Pacific-10 Conference football season,4,5,6,6,3,4,3,2
+Washington,Pacific-10 Conference,Pacific-10 Conference football season,3,6,5,7,3,3,2,4
+Stanford,Pacific-10 Conference,Pacific-10 Conference football season,1,8,1,11,0,5,1,6
+Florida,SEC,SEC Eastern Division,7,1,13,1,8,1,5,1
+Tennessee,SEC,SEC Eastern Division,5,3,9,4,5,2,4,2
+Georgia,SEC,SEC Eastern Division,4,4,9,4,5,3,4,1
+Kentucky,SEC,SEC Eastern Division,4,4,8,5,7,1,1,4
+South Carolina,SEC,SEC Eastern Division,3,5,8,5,4,4,4,1
+Vanderbilt,SEC,SEC Eastern Division,1,7,4,8,2,4,2,4
+Arkansas,SEC,SEC Western Division,7,1,10,4,5,2,5,2
+LSU,SEC,SEC Western Division,6,2,11,2,9,1,2,2
+Auburn,SEC,SEC Western Division,6,2,11,2,6,2,5,1
+Alabama,SEC,SEC Western Division,2,6,6,7,6,3,0,4
+Mississippi,SEC,SEC Western Division,2,6,4,8,4,3,0,5
+MS State,SEC,SEC Western Division,1,7,3,9,1,6,2,3
+Troy,Sun Belt,Sun Belt Conference football season,6,1,8,5,5,1,3,4
+Middle Tenn.,Sun Belt,Sun Belt Conference football season,6,1,7,6,3,2,4,4
+Arkansas State,Sun Belt,Sun Belt Conference football season,4,3,6,6,3,1,3,5
+FL Atlantic,Sun Belt,Sun Belt Conference football season,4,3,5,7,2,2,3,5
+LA-Lafayette,Sun Belt,Sun Belt Conference football season,3,4,6,6,3,3,3,3
+LA-Monroe,Sun Belt,Sun Belt Conference football season,3,4,4,8,2,3,2,5
+North Texas,Sun Belt,Sun Belt Conference football season,2,5,3,9,2,3,1,6
+FIU,Sun Belt,Sun Belt Conference football season,0,7,0,12,0,6,0,6
+Southern Miss,USA,USA East Division,6,2,9,5,6,1,3,4
+East Carolina,USA,USA East Division,5,3,7,6,4,3,3,3
+Marshall,USA,USA East Division,4,4,5,7,4,1,1,6
+UCF,USA,USA East Division,3,5,4,8,2,5,2,3
+UAB,USA,USA East Division,2,6,3,9,3,3,0,6
+Memphis,USA,USA East Division,1,7,2,10,1,6,1,4
+Houston,USA,USA West Division,7,1,10,4,7,1,3,3
+Rice,USA,USA West Division,6,2,7,6,3,1,4,5
+Tulsa,USA,USA West Division,5,3,8,5,5,1,3,4
+SMU,USA,USA West Division,4,4,6,6,5,1,1,5
+UTEP,USA,USA West Division,3,5,5,7,3,3,2,4
+Tulane,USA,USA West Division,2,6,4,8,3,2,1,6
+Boise State,Western Athletic,Western Athletic Conference football season,8,1,13,0,6,1,7,1
+Hawaii,Western Athletic,Western Athletic Conference football season,7,1,11,3,8,1,3,2
+San Jose State,Western Athletic,Western Athletic Conference football season,5,3,9,4,7,1,2,3
+Nevada,Western Athletic,Western Athletic Conference football season,5,3,8,5,5,2,3,3
+Fresno State,Western Athletic,Western Athletic Conference football season,4,4,4,8,3,3,1,5
+Idaho,Western Athletic,Western Athletic Conference football season,3,5,4,8,2,3,2,5
+NM State,Western Athletic,Western Athletic Conference football season,2,6,4,8,3,4,1,4
+LA Tech,Western Athletic,Western Athletic Conference football season,1,7,3,10,2,3,1,7
+Utah State,Western Athletic,Western Athletic Conference football season,1,7,1,11,1,4,0,7
+BYU,Mountain West,Mountain West,8,1,11,2,6,1,5,2
+TCU,Mountain West,Mountain West,6,2,11,2,5,1,6,1
+Utah,Mountain West,Mountain West,5,3,8,5,5,2,3,3
+Wyoming,Mountain West,Mountain West,5,3,6,6,4,2,2,4
+New Mexico,Mountain West,Mountain West,4,4,6,7,3,4,3,3
+Air Force,Mountain West,Mountain West,3,5,4,8,2,4,2,4
+San Diego St,Mountain West,Mountain West,3,5,3,9,3,3,0,6
+CO State,Mountain West,Mountain West,1,7,4,8,3,3,1,5
+UNLV,Mountain West,Mountain West,1,7,2,10,2,4,0,6
+Ohio State,#N/A,Big 10 Conference,8,1,12,1,7,1,5,1
+Wisconsin,#N/A,Big 10 Conference,7,1,12,1,9,1,3,1
+Michigan,#N/A,Big 10 Conference,7,1,11,2,7,1,4,1
+Penn State,#N/A,Big 10 Conference,5,3,9,4,7,1,2,3
+Purdue,#N/A,Big 10 Conference,5,3,8,6,5,2,3,4
+Minnesota,#N/A,Big 10 Conference,3,5,6,7,4,3,2,4
+Indiana,#N/A,Big 10 Conference,3,5,5,7,3,4,2,3
+Iowa,#N/A,Big 10 Conference,2,6,6,7,4,4,2,3
+Northwestern,#N/A,Big 10 Conference,2,6,4,8,2,4,2,4
+MI State,#N/A,Big 10 Conference,1,7,4,8,2,5,2,3
+Illinois,#N/A,Big 10 Conference,1,7,2,10,1,6,1,4
